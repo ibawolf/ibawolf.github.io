@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: paris_Eifel_Tower_Pano.jpg 
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -33,9 +33,10 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+  #url: https://tinyletter.com/feeling-responsive
+  url: /info/
+  text: About Me...
+  style: info
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
