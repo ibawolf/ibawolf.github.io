@@ -9,7 +9,7 @@ header:
   image_fullwidth: paris_Eifel_Tower_Pano.jpg 
 widget1:
   title: "Welcome!"
-  url: 'http://ibawolf.github.io/design/Welcome-to-my-new-blog/
+  url: 'http://ibawolf.github.io/design/Welcome-to-my-new-blog/'
   image: widget-Maui_Flags_in_Clouds.jpg
   text: 'Welcome to my new website and blog.  Come on in and get to know me, what I do, where I go, who I am.'
 widget2:
