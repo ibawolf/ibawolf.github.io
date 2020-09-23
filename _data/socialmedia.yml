@@ -3,15 +3,15 @@
   class: icon-facebook
   title: ""
 
+- name: Flickr
+  url: https://www.flickr.com/photos/75714303@N00
+  class: icon-camera
+  title: "My Flickr site"
+
 - name: GitHub
   url: http://github.com/ibawolf
   class: icon-github
   title: Code und mehr...
-
-- name: flickr
-  url: https://www.flickr.com/photos/75714303@N00
-  class: icon-flickr
-  title: "My Flickr site"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
