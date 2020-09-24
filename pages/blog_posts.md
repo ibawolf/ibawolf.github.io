@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Blog Posts"
+#subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/blog/"
+permalink: "/blog_posts/"
 ---
 <ul>
     {% for post in site.categories.design %}
