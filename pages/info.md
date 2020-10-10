@@ -18,7 +18,7 @@ header:
     * Two Beautiful, Intelligent Daughters
 * Grandfather
     * 2 Wonderful, Intelligent Granddaughters
-    * 4 Handsom, Intelligent Grandsons
+    * 4 Handsome, Intelligent Grandsons
 * Computer professional 
     * Linux/Unix system adminstration
     * Scripting
@@ -36,7 +36,7 @@ header:
 
 ## I'm inspired by...
 
+* L. L. Zamanhof - Creator of the Esperanto Constructed language (human). Ĉu vi parolas Esperanton?
 * Linus Torvolds - Creator of Linux (Open-Source computer operating system)
-* Larry Wall - Creator of Perl (computer langauge)
 * Yukihiro "Matz" Matsumoto - Creator of Ruby computer language
-* L. L. Zamanhof - Creator of the Esperanto Constructed language (human) Ĉu vi parolas Esperanton?
+* Larry Wall - Creator of the Perl computer language

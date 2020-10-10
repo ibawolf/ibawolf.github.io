@@ -8,7 +8,7 @@ categories:
 header:
    image_fullwidth: Clouds_on_Haleakela.jpg
 ---
-#### Sunday, Sept. 21, 2020
+#### Monday, Sept. 21, 2020
 ## Hi! My name is Ron Wolf
 
 ### IT work:
