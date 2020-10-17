@@ -33,4 +33,4 @@ This was the case of young Lazar Zamanhof.  He and his friends began working on 
 
 The first book was published in 1887.  It was well accepted.  He soon began receiving letters from all over Europe written in his international language.  The first International Conference for Esperantists was in 1905, less than 20 years after publishing *La Unua Libro* (the first book).  This first conference was held in Boulogne-sur-Mer, France.  It was a huge success.  Almost 700 people showed up for an 18 year-old man-made language, and they could all communicate in this language.  Amazing!
 
-Read more about it on this [*Wikipedia Entry*](https://en.wikipedia.org/wiki/Esperanto){:target="_blank"})
+If you are interested in learning more about Esperanto, you can read more about it on this [*Wikipedia Entry*](https://en.wikipedia.org/wiki/Esperanto){:target="_blank"}

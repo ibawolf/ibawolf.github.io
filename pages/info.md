@@ -40,3 +40,7 @@ header:
 * Linus Torvolds - Creator of Linux (Open-Source computer operating system)
 * Yukihiro "Matz" Matsumoto - Creator of Ruby computer language
 * Larry Wall - Creator of the Perl computer language
+
+* * *
+#### About the Photo:
+The photo at the top of the page, I took as a panorama of San Fancisco Bay, taken from the middle of the Golden Gate bridge. The multiple photos were taken with my Sony a6500 mirrorless camera, and stitched together with Adobe Lightroom.
